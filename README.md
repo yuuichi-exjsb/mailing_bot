@@ -1,1 +1,1 @@
-![代替テキスト](画像のURL)
+![代替テキスト](https://github.com/yuuichi-exjsb/mailing_bot/blob/main/MailingBot.png)
